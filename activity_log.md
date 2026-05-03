@@ -5,3 +5,4 @@
 - [2026-05-03T16:14:34Z] fix: resolve edge case in input validation
 - [2026-05-03T17:20:01Z] refactor: simplify conditional logic
 - [2026-05-03T15:39:24Z] refactor: simplify conditional logic
+- [2026-05-03T18:17:28Z] test: add unit tests for core module
